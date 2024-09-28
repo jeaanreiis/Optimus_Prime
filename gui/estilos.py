@@ -1,0 +1,3 @@
+COR_FUNDO = "#f5f5f5"
+COR_FONTE = "#FF6666"
+FONTE_PRINCIPAL = "Arial", 16
