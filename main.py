@@ -1,7 +1,7 @@
-from gui.janela_principal import JanelaPrincipal
+from gui.janela_principal import App
 
 def main():
-    app = JanelaPrincipal()
+    app = App()
     app.mainloop()
 
 if __name__ == "__main__":
